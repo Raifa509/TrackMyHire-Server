@@ -1,0 +1,64 @@
+{
+  "all-applications": [
+    {
+      "id": "3932",
+      "company": "IBM",
+      "jobRole": "Software Developer",
+      "date": "2025-09-04",
+      "status": "Rejected",
+      "source": "Dubizzle",
+      "workType": "Remote",
+      "notes": ""
+    },
+    {
+      "id": "9b33",
+      "company": "Myntra",
+      "jobRole": "Tester",
+      "date": "2025-09-03",
+      "status": "Interview",
+      "source": "Indeed",
+      "workType": "On-site",
+      "notes": ""
+    },
+    {
+      "id": "c644",
+      "company": "Google",
+      "jobRole": "SDE-1",
+      "date": "2025-09-04",
+      "status": "Applied",
+      "source": "Direct HR Mail",
+      "workType": "On-site",
+      "notes": ""
+    },
+    {
+      "id": "c46e",
+      "company": "Myntra",
+      "jobRole": "Tester",
+      "date": "2025-09-05",
+      "status": "Interview",
+      "source": "Naukrigulf",
+      "workType": "Hybrid",
+      "notes": ""
+    },
+    {
+      "id": "a3e1",
+      "company": "Amazon",
+      "jobRole": "Machine Learning Inter",
+      "date": "2025-09-06",
+      "status": "Rejected",
+      "source": "LinkedIn",
+      "workType": "On-site",
+      "notes": ""
+    },
+    {
+      "id": "3c24",
+      "company": "UST",
+      "jobRole": "React js Developer",
+      "date": "2025-09-06",
+      "status": "Hired",
+      "source": "Bayt",
+      "workType": "On-site",
+      "notes": ""
+    }
+  ]
+}
